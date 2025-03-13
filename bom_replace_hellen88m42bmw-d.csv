@@ -3,3 +3,5 @@ R66006,
 
 # replacement example - replace specific fuse part number
 F42333310,"nSMD050-24V","SMD1206","C70076"
+
+include hellen-one/board_id/board_id_unknown.csv
