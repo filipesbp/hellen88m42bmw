@@ -18,6 +18,7 @@ Part of https://github.com/andreika-git/hellen-one family
 Modification of https://github.com/rusefi/hellen88bmw board
 
 Wiring:
+
  Ground Pins - 6, 15, 28, 34, (39), (40), 41, 43, (44), (45), 55, 71, 76, (84).
  
    () Not wiring harness but available on ECU.
